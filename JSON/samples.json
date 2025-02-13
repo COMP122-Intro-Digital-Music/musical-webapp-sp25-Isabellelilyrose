@@ -1,7 +1,7 @@
 [
   {
     "name": "Meow_1",
-    "file": "samples/Meow_1.mp3",
+    "file": "samples/Meow_1.wav",
     "bpm": 120,
     "loop": "1m",
     "grain": 0.04,
@@ -9,7 +9,7 @@
   },
   {
     "name": "Meow_2",
-    "file": "samples/Meow_2.mp3",
+    "file": "samples/Meow_2.wav",
     "bpm": 120,
     "loop": "1m",
     "grain": 0.04,
@@ -17,7 +17,7 @@
   },
   {
     "name": "Meow_3",
-    "file": "samples/Meow_3.mp3",
+    "file": "samples/Meow_3.wav",
     "bpm": 120,
     "loop": "1m",
     "grain": 0.04,
