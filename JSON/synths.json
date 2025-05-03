@@ -1,1 +1,60 @@
-[]
+[
+  {
+    "name": "o-dawg",
+    "type": "Synth",
+    "settings": {
+      "volume": 0,
+      "detune": 0,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.075",
+        "attackCurve": "linear",
+        "decay": "0.015",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "exponential",
+        "sustain": "0.705"
+      },
+      "oscillator": {
+        "partialCount": 0,
+        "partials": [],
+        "phase": 0,
+        "type": "fatsquare",
+        "count": 8,
+        "spread": 25
+      }
+    }
+  },
+  {
+    "name": "kibby",
+    "type": "Synth",
+    "settings": {
+      "volume": 0,
+      "detune": 25,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.275",
+        "attackCurve": "exponential",
+        "decay": "0.315",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "exponential",
+        "sustain": "0.305"
+      },
+      "oscillator": {
+        "partialCount": 5,
+        "partials": [
+          0.8105694691387023,
+          0,
+          -0.0900632743487447,
+          0,
+          0.03242277876554809
+        ],
+        "phase": 0,
+        "type": "amtriangle5",
+        "harmonicity": 1,
+        "modulationType": "square"
+      }
+    }
+  }
+]
